@@ -1,0 +1,176 @@
+:root {
+  --Primary-White: #fff;
+  --Primary-Navy-Blue: #2C3044;
+  --Primary-Purple: #784ED2;
+  --Primary-Orange: #FF6B31;
+  --Primary-Font: 'GT Walsheim', serif;
+}
+
+p {
+  margin: 0;
+}
+
+body .main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+body .main .main_img {
+  width: 100%;
+  height: 46vw;
+  background-image: url(../../pictures/K-RO_Petite-Sirene-Carreau-Motif.jpg);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+}
+
+body .main .main_img .main_img_title {
+  width: 86%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+body .main .main_img .main_img_title .main_img_title_txt {
+  font-family: var(--Primary-Font);
+  font-weight: normal;
+  font-size: 40px;
+  color: var(--Primary-White);
+  line-height: 60px;
+  width: 53%;
+  max-width: 660px;
+}
+
+body .main .main_content-1 {
+  width: 86%;
+  display: flex;
+  gap: 150px;
+  padding: 110px 0;
+}
+
+body .main .main_content-1 .main_content-1_elements {
+  width: 47%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-top: 39px;
+}
+
+body .main .main_content-1 .main_content-1_elements .main_content-1_elements_titles {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+}
+
+body .main .main_content-1 .main_content-1_elements .main_content-1_elements_titles .content-1_elements_titles_small-title {
+  font-family: var(--Primary-Font);
+  font-weight: normal;
+  font-size: 14px;
+  color: var(--Primary-Purple);
+  text-transform: capitalize;
+}
+
+body .main .main_content-1 .main_content-1_elements .main_content-1_elements_titles .content-1_elements_titles_big-title {
+  font-family: var(--Primary-Font);
+  font-weight: 400;
+  font-size: 40px;
+  color: var(--Primary-Navy-Blue);
+  line-height: 60px;
+  width: 82%;
+  max-width: 530px;
+}
+
+body .main .main_content-1 .main_content-1_elements .main_content-1_elements_txt-img-1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  margin-left: 5vw;
+}
+
+body .main .main_content-1 .main_content-1_elements .main_content-1_elements_txt-img-1 .content-1_elements_txt-img-1_txt {
+  width: 65%;
+  font-family: var(--Primary-Font);
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--Primary-Navy-Blue);
+  line-height: 24px;
+  max-width: 1000px;
+}
+
+body .main .main_content-1 .main_content-1_elements .main_content-1_elements_txt-img-1 .content-1_elements_txt-img-1_img {
+  width: calc(100% - 72px);
+}
+
+body .main .main_content-1 .main_content-2_elements {
+  width: 47%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 85px;
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_img {
+  width: 100%;
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_txt-btn {
+  width: 63%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_txt-btn .content-2_elements_txt-btn_txt {
+  width: 87%;
+  font-family: var(--Primary-Font);
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--Primary-Navy-Blue);
+  line-height: 24px;
+  max-width: 354px;
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_txt-btn .content-2_elements_txt-btn_btn {
+  width: 35%;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_txt-btn .content-2_elements_txt-btn_btn .content-2_elements_txt-btn_btn_arrow {
+  width: 0;
+  height: 0;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-bottom: 21px solid var(--Primary-Orange);
+  transform: rotate(90deg);
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_txt-btn .content-2_elements_txt-btn_btn .content-2_elements_txt-btn_btn_more {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_txt-btn .content-2_elements_txt-btn_btn .content-2_elements_txt-btn_btn_more .elements_txt-btn_btn_more_txt {
+  font-family: var(--Primary-Font);
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--Primary-Navy-Blue);
+  text-decoration: none;
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_txt-btn .content-2_elements_txt-btn_btn .content-2_elements_txt-btn_btn_more .elements_txt-btn_btn_more_underline {
+  width: 0%;
+  height: 1px;
+  background-color: var(--Primary-Navy-Blue);
+  transition: all 1s ease;
+}
+
+body .main .main_content-1 .main_content-2_elements .main_content-2_elements_txt-btn .content-2_elements_txt-btn_btn .content-2_elements_txt-btn_btn_more:hover .elements_txt-btn_btn_more_underline {
+  width: 100%;
+  transition: all 1s ease;
+}

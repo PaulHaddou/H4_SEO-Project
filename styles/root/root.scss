@@ -1,0 +1,83 @@
+:root
+{
+    --Primary-White : #fff;
+    --Primary-Navy-Blue : #2C3044;
+    --Primary-Purple : #784ED2;
+    --Primary-Orange : #FF6B31;
+
+    --Primary-Font : 'GT Walsheim', serif;
+}
+
+@mixin --Font-Medium-40px
+{
+    font-family: var(--Primary-Font);
+    font-weight: normal;
+    font-size: 40px;
+}
+@mixin --Font-Medium-22px
+{
+    font-family: var(--Primary-Font);
+    font-weight: normal;
+    font-size: 22px;
+}
+@mixin --Font-Medium-16px
+{
+    font-family: var(--Primary-Font);
+    font-weight: normal;
+    font-size: 16px;
+}
+@mixin --Font-Medium-14px
+{
+    font-family: var(--Primary-Font);
+    font-weight: normal;
+    font-size: 14px;
+}
+@mixin --Font-Regular-40px
+{
+    font-family: var(--Primary-Font);
+    font-weight: 400;
+    font-size: 40px;
+}
+@mixin --Font-Regular-16px
+{
+    font-family: var(--Primary-Font);
+    font-weight: 400;
+    font-size: 16px;
+}
+@mixin --Font-Bold-20px
+{
+    font-family: var(--Primary-Font);
+    font-weight: bold;
+    font-size: 20px;
+}
+@mixin --Font-Bold-14px
+{
+    font-family: var(--Primary-Font);
+    font-weight: bold;
+    font-size: 14px;
+}
+@mixin --Font-Bold-10px
+{
+    font-family: var(--Primary-Font);
+    font-weight: bold;
+    font-size: 10px;
+}
+@mixin --Font-Regular-225px
+{
+    font-family: var(--Primary-Font);
+    font-weight: 400;
+    font-size: 22.5px;
+}
+@mixin --Font-Regular-20px
+{
+    font-family: var(--Primary-Font);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+@mixin Flex-Center-Center 
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
