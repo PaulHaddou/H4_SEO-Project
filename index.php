@@ -17,11 +17,11 @@
                 </div>
                 <div class="main_content-1_elements_txt-img-1">
                     <p class="content-1_elements_txt-img-1_txt"><?= $Home_Content_1_First_Text ?></p>
-                    <img class="content-1_elements_txt-img-1_img" src="pictures/K-RO_Petite-Sirene-Carreau-Motif_small-1.png" alt="Image de La Petite Sirène avec son poto le poisson">
+                    <img class="content-1_elements_txt-img-1_img" src="pictures/K-RO_Petite-Sirene-Carreau-Motif_Small-1.png" alt="Image de La Petite Sirène avec son poto le poisson">
                 </div>
             </div>
             <div class="main_content-2">
-                <img class="main_content-2_img" src="pictures/K-RO_Petite-Sirene-Carreau-Motif_small-2.jpg" alt="Image d'exemple de carreaux de La Petite Sirène dans une salle de bain">
+                <img class="main_content-2_img" src="pictures/K-RO_Petite-Sirene-Carreau-Motif_Small-2.jpg" alt="Image d'exemple de carreaux de La Petite Sirène dans une salle de bain">
                 <div class="main_content-2_txt-btn">
                     <p class="content-2_txt-btn_txt"><?= $Home_Content_1_Second_Text ?></p>
                     <div class="content-2_txt-btn_btn">

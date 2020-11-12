@@ -1,4 +1,9 @@
 <?php
+/// Head
+
+
+$Head_Page_Title = "K-RO";
+
 /// Navbar
 
 $Navbar_Logo = "K-RO";

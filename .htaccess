@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} k-ro\.shop [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://k-ro.shop/$1 [R,L]
