@@ -18,7 +18,7 @@ $Navbar_Link_2 = "Contact";
 
 ////// Main Picture 
 
-$Home_Main_Picture_Title = "Partagez un moment unique avec vos enfants grâce aux carreaux de carrelage petite sirène.";
+$Home_Main_Picture_Title = "Partagez un moment unique avec vos enfants grâce aux carreaux de carrelage Petite Sirène.";
 
 
 
@@ -26,14 +26,14 @@ $Home_Main_Picture_Title = "Partagez un moment unique avec vos enfants grâce au
 
 $Home_Content_1_Small_Purple_Title = "Faites rêver vos enfants";
 $Home_Content_1_Big_Title = "L’heure du bain est l’occasion d’échanger un moment de complicité avec vos enfants.";
-$Home_Content_1_First_Text = "Véritable moment privilégié, c’est l’occasion parfaite pour les faire rêver ! K-RO a pensé à vous, grâce au carreau de carrelage petite sirène. Plonger votre salle de bain dans l’univers merveilleux de ce dessin animé pour le plus grand bonheur de vos enfants…";
-$Home_Content_1_Second_Text = "Grâce à ses finitions et ses couleurs, ces carreaux de carrelage petite sirène transmettent des émotions uniques à vos enfants, les plongeant dans l’univers de Disney emprunt de magie et de féerie.";
+$Home_Content_1_First_Text = "Véritable moment privilégié, c’est l’occasion parfaite pour les faire rêver ! K-RO a pensé à vous, grâce au carreau de carrelage Petite Sirène. Plonger votre salle de bain dans l’univers merveilleux de ce dessin animé pour le plus grand bonheur de vos enfants…";
+$Home_Content_1_Second_Text = "Grâce à ses finitions et ses couleurs, ces carreaux de carrelage Petite Sirène transmettent des émotions uniques à vos enfants, les plongeant dans l’univers de Disney emprunt de magie et de féerie.";
 
 
 ////// Content 3
 
 $Home_Content_3_Title = "Depuis quelques années le carreau à motif fait son grand retour";
-$Home_Content_3_Text = "La petite sirène étant une princesse incontournable, ce carreau à son effigie rendra votre pièce pleine de vie. En plus d’être esthétique, ce carreau est très facile à nettoyer et permet de créer une ambiance chaleureuse au sein de votre salle de bain.";
+$Home_Content_3_Text = "Ariel La Petite Sirène étant une princesse incontournable, ce carreau à son effigie rendra votre pièce pleine de vie. En plus d’être esthétique, ce carreau est très facile à nettoyer et permet de créer une ambiance chaleureuse au sein de votre salle de bain.";
 
 
 ////// Content 4
