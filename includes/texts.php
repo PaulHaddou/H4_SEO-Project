@@ -3,6 +3,7 @@
 
 
 $Head_Page_Title = "K-RO";
+$meta_Name = "K-RO vous propose des carreaux de carrelage petite sirène d’excellente qualité. Redécouvrez l’univers de Disney, en personnalisant votre salle de bain ! ";
 
 /// Navbar
 
@@ -75,3 +76,22 @@ $Home_Content_5_Element_8_Characteristics = "8";
 
 
 
+/// PRODUCT
+
+////// Content 1
+
+$Product_Main_Title = "Carreau de carrelage Petite Sirène";
+
+////// Content 2
+
+$Product_Content_1_Small_Title = "Description";
+$Product_Content_1_Body = "Transformez votre salle de bain en monde merveilleux ! Faites sur mesure vos carreaux de carrelage pour qu’Ariel la petite sirène vous suive dans votre quotidien. K-RO vous garantit une qualité inégalable.";
+
+////// Content 3
+
+$Product_Content_2_Small_Title = "Livraison";
+$Product_Content_2_Body = "Disponible en magasin";
+
+////// Bottom container 
+$Bottom_Container_1_Small_Purple_Title = "Aussi bien pour votre salle de bain que votre cuisine";
+$Bottom_Container_1_Big_Title = "Vous aimerez aussi d’autres motifs";

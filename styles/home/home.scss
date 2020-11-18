@@ -61,7 +61,7 @@ body
                     {
                         @include --Font-Medium-14px;
                         color: var(--Primary-Purple);
-                        text-transform: capitalize;
+                        text-transform: uppercase;
                     }
                     .content-1_elements_titles_big-title
                     {
@@ -224,7 +224,7 @@ body
                         {
                             @include --Font-Medium-14px;
                             color: var(--Primary-Purple);
-                            text-transform: capitalize;
+                            text-transform: uppercase;
                         }
                         .content-4_elements_titles-txt_titles_big
                         {

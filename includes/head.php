@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?= $meta_Name ?>">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>K-RO - carrelage petite sirène</title>
+    <title>K-RO - Carreaux de carrelage petite sirène</title>
+    <link rel="shortcut icon" type="image/svg" href="pictures/favicon.svg"/>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/navbar/navbar.min.css">
