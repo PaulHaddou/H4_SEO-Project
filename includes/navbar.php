@@ -6,7 +6,7 @@
         <div class="navbar-sections">
             <div class="sections-links">
                 <div>
-                    <a href="#"><?= $Navbar_Link_1 ?></a>
+                    <a href="product.php"><?= $Navbar_Link_1 ?></a>
                 </div>
                 <div>
                     <a href="#"><?= $Navbar_Link_2 ?></a>

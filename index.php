@@ -27,7 +27,7 @@
                     <div class="content-2_txt-btn_btn">
                         <span class="content-2_txt-btn_btn_arrow"></span>
                         <div class="content-2_txt-btn_btn_more">
-                            <a class="elements_txt-btn_btn_more_txt" href="#">En savoir plus</a>
+                            <a class="elements_txt-btn_btn_more_txt" href="product.php">En savoir plus</a>
                             <span class="elements_txt-btn_btn_more_underline"></span>
                         </div>  
                     </div>
