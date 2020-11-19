@@ -47,6 +47,12 @@
     font-weight: 400;
     font-size: 16px;
 }
+@mixin --Font-Bold-36px
+{
+    font-family: var(--Primary-Font);
+    font-weight: bold;
+    font-size: 36px;
+}
 @mixin --Font-Bold-20px
 {
     font-family: var(--Primary-Font);
@@ -83,4 +89,9 @@
    display: flex;
    justify-content: center;
    align-items: center;
+}
+
+@mixin Shadow-Shop 
+{
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.09);
 }

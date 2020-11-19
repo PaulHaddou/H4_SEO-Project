@@ -2,7 +2,7 @@
 /// Head
 
 
-$Head_Page_Title = "K-RO";
+$Head_Page_Title = "K-RO - Carreaux de carrelage petite sirène";
 $meta_Name = "K-RO vous propose des carreaux de carrelage petite sirène d’excellente qualité. Redécouvrez l’univers de Disney, en personnalisant votre salle de bain ! ";
 
 /// Navbar
@@ -80,12 +80,18 @@ $Home_Content_5_Element_8_Characteristics = "8";
 
 ////// Content 1
 
-$Product_Main_Title = "Carreau de carrelage Petite Sirène";
+$Product_Main_Title_Sirene = "Carreau de carrelage Petite Sirène";
+$Product_Main_Title_Cendrillon = "Carreau de carrelage Cendrillon";
+$Product_Main_Title_Belle = "Carreau de carrelage la Belle et la Bête";
+$Product_Main_Title_Princesse = "Carreau de carrelage la Princesse et la Grenouille";
 
 ////// Content 2
 
 $Product_Content_1_Small_Title = "Description";
-$Product_Content_1_Body = "Transformez votre salle de bain en monde merveilleux ! Faites sur mesure vos carreaux de carrelage pour qu’Ariel la petite sirène vous suive dans votre quotidien. K-RO vous garantit une qualité inégalable.";
+$Product_Content_1_Body_Sirene = "Transformez votre salle de bain en monde merveilleux ! Faites sur mesure vos carreaux de carrelage pour qu’Ariel la petite sirène vous suive dans votre quotidien. K-RO vous garantit une qualité inégalable.";
+$Product_Content_1_Body_Cendrillon = "Rendez heureux vos enfants grâce aux carreaux de carrelage Cendrillon ! Plongez dans l’univers magique de Disney, et retrouvez votre princesse préférée directement dans votre salle de bain. K-RO vous garantit une qualité inégalable.";
+$Product_Content_1_Body_Belle = "Retrouvez l’univers Disney dans votre salle de bain avec les carreaux de carrelage la Belle et la Bête. Commandez-les sur mesure afin de créer un univers s’adaptant à votre pièce mettant en valeur la jolie princesse ! K-RO vous garantit une qualité inégalable.";
+$Product_Content_1_Body_Princesse = "Métamorphosez votre salle de bain avec des carreaux de carrelage la Princesse et la Grenouille. Parfaitement adapté aux enfants, ces carreaux sur mesure habilleront votre salle de bain, la plongeant dans un univers merveilleux rempli de princesse Disney ! K-RO vous garantit une qualité inégalable";
 
 ////// Content 3
 
@@ -95,3 +101,26 @@ $Product_Content_2_Body = "Disponible en magasin";
 ////// Bottom container 
 $Bottom_Container_1_Small_Purple_Title = "Aussi bien pour votre salle de bain que votre cuisine";
 $Bottom_Container_1_Big_Title = "Vous aimerez aussi d’autres motifs";
+
+
+/// SHOP
+
+////// Content 1
+
+$Shop_Content_1_Title = $Product_Main_Title_Sirene;
+$Shop_Content_1_Description = $Product_Content_1_Body_Sirene;
+
+////// Content 2
+
+$Shop_Content_2_Title = $Product_Main_Title_Cendrillon;
+$Shop_Content_2_Description = $Product_Content_1_Body_Cendrillon;
+
+////// Content 3
+
+$Shop_Content_3_Title = $Product_Main_Title_Belle;
+$Shop_Content_3_Description = $Product_Content_1_Body_Belle;
+
+////// Content 4
+
+$Shop_Content_4_Title = $Product_Main_Title_Princesse;
+$Shop_Content_4_Description = $Product_Content_1_Body_Princesse;

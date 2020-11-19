@@ -1,4 +1,9 @@
 <?php
+    $path_Files_Head = "";
+    $Navbar_Link_Home_href  = "#";
+    $Navbar_Link_1_href  = "pages/shop/";
+    $Navbar_Link_2_href  = "#";
+    $css = "styles/home/home.min.css";
     include 'includes/head.php';
     include 'includes/texts.php';
     include 'includes/navbar.php';
