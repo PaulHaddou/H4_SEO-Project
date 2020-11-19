@@ -27,7 +27,7 @@
                     <div class="content-2_txt-btn_btn">
                         <span class="content-2_txt-btn_btn_arrow"></span>
                         <div class="content-2_txt-btn_btn_more">
-                            <a class="elements_txt-btn_btn_more_txt" href="product.php">En savoir plus</a>
+                            <a class="elements_txt-btn_btn_more_txt" href="product.php">Voir le produit</a>
                             <span class="elements_txt-btn_btn_more_underline"></span>
                         </div>  
                     </div>
@@ -42,7 +42,7 @@
         </div>
         <div class="main_content-4">
             <div class="main_content-4_elements">
-                <img class="main_content-4_elements_img" src="pictures/K-RO_Petite-Sirene-Carreau-Motif_Small-3.jpg" alt="Image d'exemple de carreaux de La Petite Sirène dans une salle de bain">
+                <img class="main_content-4_elements_img" src="pictures/K-RO_Petite-Sirene-Carreau-Motif_Small-2.jpg" alt="Image d'exemple de carreaux de La Petite Sirène dans une salle de bain">
                 <div class="main_content-4_elements_titles-txt">
                     <div class="main_content-4_elements_titles-txt_titles">
                         <p class="content-4_elements_titles-txt_titles_small"><?= $Home_Content_4_Small_Purple_Title ?></p>

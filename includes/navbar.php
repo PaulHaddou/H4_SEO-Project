@@ -1,7 +1,7 @@
 <div class="navbar">
     <div class="navbar_navbar">
         <div class="navbar-logo">
-            <a href="#"><?= $Navbar_Logo ?></a>
+            <a href="index.php"><?= $Navbar_Logo ?></a>
         </div>
         <div class="navbar-sections">
             <div class="sections-links">

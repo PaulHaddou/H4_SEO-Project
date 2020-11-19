@@ -30,9 +30,9 @@
         <p class="content-1_elements_titles_big-title"><?= $Bottom_Container_1_Big_Title ?></p>
     </div>
     <div class="bottom_container_img">
-        <img src="pictures/K-RO_Petite-Sirene-Carreau-Motif_Small-2.jpg" alt="Image d'exemple de carreaux de carrelage de La Petite Sirène dans une salle de bain">
-        <img src="pictures/K-RO_Petite-Sirene-Carreau-Motif_Small-2.jpg" alt="Image d'exemple de carreaux de carrelage de La Petite Sirène dans une salle de bain">
-        <img src="pictures/K-RO_Petite-Sirene-Carreau-Motif_Small-2.jpg" alt="Image d'exemple de carreaux de carrelage de La Petite Sirène dans une salle de bain">
+        <img src="pictures/K-RO_Belle_et_la_bete-Motif.png" alt="Image de la princesse la belle et la bête">
+        <img src="pictures/K-RO_Cendrillon-Motif.png" alt="Image de la princesse Cendrillon">
+        <img src="pictures/K-RO_Princesse_Grenouille-Motif.png" alt="Image de la princesse et la grenouille">
     </div>
 </div>
 
